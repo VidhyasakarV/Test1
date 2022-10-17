@@ -1,4 +1,5 @@
 log/
 main.log
 *.log
+*.log
 /bin
